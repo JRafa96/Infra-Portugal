@@ -1,0 +1,50 @@
+/* infrarestruturasPortugal.css */
+
+body { 
+		font-family: 'Roboto Condensed', sans-serif;
+		margin:1em 10%;
+	 }
+
+input {
+		
+        padding: 6px 12px;
+    	font-size: 14px;
+    	line-height: 1.42857143;
+    	color: #555555;
+    	border: 1px solid #cccccc;
+    	font-family: 'Roboto Condensed', sans-serif;
+
+    	margin-right: 2em; 
+       }
+
+input[ type="submit" ]  {
+							color: #FFFFFF;
+    						background-color: #00775c;
+    						border-color: #00775c;
+    						font-size: 16px;
+
+    						margin-left: 12px;
+    					}
+
+
+form { margin-bottom:2em; }
+
+th { 
+		background-color: #1E9D8B;
+    	color: #FFFFFF;
+    	font-weight: 700;
+    }
+
+th, td { 
+		padding: 8px;
+    	line-height: 1.42857143; 
+       }
+
+a {  
+   color: #1E9D8B;
+   font-weight: 700;
+   text-decoration: none;
+  }           
+
+a:hover { text-decoration: underline; }
+
